@@ -2,6 +2,9 @@
 Trading Card Game (TCG) entirely built with local generative AI using<br>
 Large Langage Model (LLM) + AI image generation tool
 
+see the results on this reddit post:
+https://www.reddit.com/r/TCG/comments/1f960wt/how_to_create_a_fully_ai_generated_tcg/
+
 ## ollama / mixtral - Local LLM
 - Install [ollama](https://ollama.com/)
 - run ```ollama run mixtral``` in command to automatically download it
